@@ -20,6 +20,13 @@
 - 😄 You may like [My Github](https://github.com/zhuofalinHJh/zhuofalinHJh),[My Gitee](https://gitee.com/zhuofalin)
 - 😀 It's [my old account](https://github.com/zhuofalin)
 
+---------
+
+## About My Github
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuofalin)](https://github.com/zhuofalinHJH/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuofalin&show_icons=true&theme=tokyonight)
+
 ## My Skill Sets
 <table><tr><td valign="top" width="33%">
 
