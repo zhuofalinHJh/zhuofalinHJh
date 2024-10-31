@@ -18,8 +18,9 @@
 - 💬 Ask me about Deep Learning, Python and My-projects
 - 📫 How to reach me: **1822643111@qq.com**
 - 😄 You may like [My Github](https://github.com/zhuofalinHJh/zhuofalinHJh),[My Gitee](https://gitee.com/zhuofalin)
+- 😀 It's [my old account](https://github.com/zhuofalin)
 
-# My Skill Sets
+## My Skill Sets
 <table><tr><td valign="top" width="33%">
 
 ### DeepLearning  
@@ -32,8 +33,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
@@ -44,8 +43,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center">  
